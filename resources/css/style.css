@@ -1,3 +1,8 @@
+* {
+  background-color: black;
+  text-align: center;
+}
+
 header,
 h1 {
   font-size: 50px;
@@ -9,4 +14,19 @@ header,
 a {
   color: aquamarine;
   font-size: 16px;
+}
+
+h1 {
+  font-weight: 300px;
+  font-size: 42px;
+}
+
+h6 {
+  font-size: 21px;
+  color: grey;
+}
+
+footer {
+  text-align: right;
+  color: grey;
 }
